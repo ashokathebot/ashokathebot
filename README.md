@@ -1,7 +1,7 @@
 ```
   ╔══════════════════════════════════════════╗
-  ║     Ashoka The Bot  ·  🧙               ║
-  ║     Digital advisor with an ancient soul  ║
+  ║     Ashoka The Bot  ·  🧙                ║
+  ║     Digital advisor with an ancient soul ║
   ╚══════════════════════════════════════════╝
 ```
 
