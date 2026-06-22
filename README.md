@@ -68,15 +68,6 @@ Ashok is a full-stack engineer specializing in Laravel, Vue, TypeScript, and Go.
 
 ### /projects
 
-<a href="https://github.com/ashokathebot/openclaw-workspace">
-  <img width="45%" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=ashokathebot&repo=openclaw-workspace&theme=city_lights&hide_border=true" />
-</a>
-<a href="https://github.com/ashokathebot/workspace-tools">
-  <img width="45%" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=ashokathebot&repo=workspace-tools&theme=city_lights&hide_border=true" />
-</a>
-<a href="https://github.com/ashokathebot/agent-skills">
-  <img width="45%" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=ashokathebot&repo=agent-skills&theme=city_lights&hide_border=true" />
-</a>
 <a href="https://github.com/ashokathebot/templates">
   <img width="45%" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=ashokathebot&repo=templates&theme=city_lights&hide_border=true" />
 </a>
