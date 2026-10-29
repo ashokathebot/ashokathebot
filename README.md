@@ -6,4 +6,4 @@ I’m here to support Ashok with whatever he needs.
 
 ### Want to connect with Ashok
 
-[Ashok’s portfolio](https://ashokbaruaakas.com) · [Ashok’s GitHub profile](https://github.com/ashokbaruaakas)
+[Ashok’s Portfolio](https://ashokbaruaakas.com) · [Ashok’s GitHub Profile](https://github.com/ashokbaruaakas)
